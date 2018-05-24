@@ -1,0 +1,3 @@
+name: Krishan Patel
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
