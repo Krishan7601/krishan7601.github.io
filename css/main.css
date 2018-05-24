@@ -15,11 +15,3 @@ nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Ser
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
-
-/* Resume */
-.resume { margin: 0px 0px 60px; }
-.resume h1 { font-size: 3em; }
-.resume h2 { font-size: 2em; }
-.resume address, .resume .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-.resume address, .resume p { font-size: 1.2em; }
-.resume .download { float: right; font-size: .8em; text-transform: uppercase; }
